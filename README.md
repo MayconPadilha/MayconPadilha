@@ -1,10 +1,10 @@
 <img align="right" src="https://media.tenor.com/3OnwqAIT5lcAAAAi/subaru-duck-dance-smooth.gif" width="200" height="200" border="0" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Maycon+Padilha!+%F0%9F%91%8B;Prazer+em+conhec%C3%AA-lo!+%F0%9F%91%8B)](https://git.io/typing-svg)
-<p align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas no IFRS<br>(Instituto Federal do Rio Grande do Sul, Campus Restinga)</p>   
-<p align="left">Me Considero um desenvolvedor full stack por ter experiência tanto em front-end quanto em back-end!</p>
-<p align="left">Tenho sólida experiência em resolver problemas de forma eficiente. Sou reconhecido pela minha atenção aos detalhes e pela capacidade de lidar com desafios de maneira calma e eficaz. Estou sempre disposto a aprender e crescer, buscando constantemente maneiras de aprimorar minhas habilidades e contribuir para o sucesso da equipe e organização.</p>
-<p align="left">Estou aberto a propostas e novos desafios!</p>
+<p align="left">Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas no IFRS (Instituto Federal do Rio Grande do Sul, Campus Restinga).</p>   
+<p align="left">Considero-me um desenvolvedor full stack, com experiência tanto em front-end quanto em back-end.</p>
+<p align="left">Tenho sólida experiência em resolver problemas de forma eficiente e sou reconhecido pela minha atenção aos detalhes e capacidade de lidar com desafios de maneira calma e eficaz. Estou sempre disposto a aprender e crescer, buscando constantemente maneiras de aprimorar minhas habilidades e contribuir para o sucesso da equipe e da organização.</p>
+<p align="left">Estou aberto a novas propostas e desafios!</p>
 
 ##
 
