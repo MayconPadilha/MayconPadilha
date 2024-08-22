@@ -12,7 +12,7 @@
 
 <div> 
  <a href="https://www.linkedin.com/in/maycon-padilha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://docs.google.com/document/d/1Ed-Smy8aXQfdtdzTAr1XY3YbSxGCtRU99XIkiVFQSOw/view" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-%25?style=for-the-badge&logo=duckduckgo&logoColor=white&color=000" target="_blank"></a> 
+ <a href="https://mayconpadilha.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-%25?style=for-the-badge&logo=duckduckgo&logoColor=white&color=000" target="_blank"></a> 
  <a href="mailto:maycon.jordan5000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%25?style=for-the-badge&logo=gmail&logoColor=white&color=%23EA4335" target="_blank"></a> 
 </div>
 
