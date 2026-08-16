@@ -1,14 +1,30 @@
 <img align="right" src="https://media.tenor.com/3OnwqAIT5lcAAAAi/subaru-duck-dance-smooth.gif" width="200" height="200" border="0" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Maycon+Padilha!+%F0%9F%91%8B;Prazer+em+conhec%C3%AA-lo!+%F0%9F%91%8B)](https://git.io/typing-svg)
-<p align="left">Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas no IFRS (Instituto Federal do Rio Grande do Sul, Campus Restinga).</p>   
-<p align="left">Considero-me um desenvolvedor full stack, com experiência tanto em front-end quanto em back-end.</p>
-<p align="left">Tenho sólida experiência em resolver problemas de forma eficiente e sou reconhecido pela minha atenção aos detalhes e capacidade de lidar com desafios de maneira calma e eficaz. Estou sempre disposto a aprender e crescer, buscando constantemente maneiras de aprimorar minhas habilidades e contribuir para o sucesso da equipe e da organização.</p>
-<p align="left">Estou aberto a novas propostas e desafios!</p>
+
+<p align="left">
+  Desenvolvedor Full Stack Júnior, formado em Análise e Desenvolvimento de Sistemas pelo IFRS – Campus Restinga.
+</p>
+
+<p align="left">
+  Tenho experiência no desenvolvimento de aplicações web atuando tanto no Front-end quanto no Back-end, com maior foco no desenvolvimento de interfaces modernas, responsivas e intuitivas.
+</p>
+
+<p align="left">
+  Minha jornada na tecnologia começou pela curiosidade em entender como os games eram criados e, ao longo do tempo, essa curiosidade se transformou em uma paixão pelo desenvolvimento de software. Gosto de transformar problemas e ideias em soluções funcionais, buscando sempre escrever código organizado e evoluir minhas práticas de desenvolvimento.
+</p>
+
+<p align="left">
+  Atualmente, meu principal foco está no desenvolvimento Front-end, especialmente com Angular e TypeScript, sem deixar de explorar e aprimorar meus conhecimentos em Back-end, bancos de dados, APIs e arquitetura de aplicações.
+</p>
+
+<p align="left">
+  Estou sempre aberto a novos desafios, oportunidades de aprendizado e projetos que me permitam evoluir como desenvolvedor.
+</p>
 
 ##
 
-### Links
+### 🔗 Links
 
 <div> 
  <a href="https://www.linkedin.com/in/maycon-padilha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -18,47 +34,37 @@
 
 ##
 
-### Tecnologias
-[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[<img height="48px" width="48px" alt="Icone angular" src="https://skillicons.dev/icons?i=angular"/>](https://angular.io/)
-[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
-[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
-[<img height="48px" width="48px" alt="Icone java" src="https://skillicons.dev/icons?i=java"/>](https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o))
-[<img height="48px" width="48px" alt="Icone spring" src="https://skillicons.dev/icons?i=spring"/>](https://spring.io/)
-[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org)
-[<img height="48px" width="48px" alt="Icone Npm.js" src="https://skillicons.dev/icons?i=npm"/>](https://www.npmjs.com)
-[<img height="48px" width="48px" alt="Icone c#" src="https://skillicons.dev/icons?i=cs"/>](https://dotnet.microsoft.com/pt-br/languages/csharp)
-[<img height="48px" width="48px" alt="Icone flutterflow" src="https://i.postimg.cc/PqmP6w9F/flutterflowpng.png"/>](https://flutterflow.io/)
-[<img height="48px" width="48px" alt="Icone androidstudio" src="https://skillicons.dev/icons?i=androidstudio"/>](https://developer.android.com/studio?hl=pt-br)
-[<img height="48px" width="48px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.postgresql.org)
-[<img height="48px" width="48px" alt="Icone mongodb" src="https://skillicons.dev/icons?i=mongodb"/>](https://cloud.google.com/)
-[<img height="48px" width="48px" alt="Icone Vercel" src="https://skillicons.dev/icons?i=vercel"/>](https://vercel.com)
-[<img height="48px" width="48px" alt="Icone Render" src="https://i.postimg.cc/HsC596fC/render.png"/>](https://render.com/)
+### 💻 Tecnologias
+
+[<img height="48px" width="48px" alt="Angular" src="https://skillicons.dev/icons?i=angular"/>](https://angular.io/)
+[<img height="48px" width="48px" alt="HTML5" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img height="48px" width="48px" alt="CSS3" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[<img height="48px" width="48px" alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
+[<img height="48px" width="48px" alt="JavaScript" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img height="48px" width="48px" alt="Java" src="https://skillicons.dev/icons?i=java"/>](https://www.java.com/)
+[<img height="48px" width="48px" alt="Spring" src="https://skillicons.dev/icons?i=spring"/>](https://spring.io/)
+[<img height="48px" width="48px" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/)
+[<img height="48px" width="48px" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org/)
+[<img height="48px" width="48px" alt="MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+[<img height="48px" width="48px" alt="Docker" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com/)
+[<img height="48px" width="48px" alt="Jenkins" src="https://skillicons.dev/icons?i=jenkins"/>](https://www.jenkins.io/)
+[<img height="48px" width="48px" alt="FlutterFlow" src="https://i.postimg.cc/PqmP6w9F/flutterflowpng.png"/>](https://flutterflow.io/)
 
 ##
 
-### Ferramentas
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
-[<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
-[<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-[<img height="48px" width="48px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com)
-[<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
+### 🛠️ Ferramentas
+
+[<img height="48px" width="48px" alt="Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com/)
+[<img height="48px" width="48px" alt="GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+[<img height="48px" width="48px" alt="Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+[<img height="48px" width="48px" alt="Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
 
 ##
-
-### Estatísticas
-
-<div>
-  <a href="https://github.com/MayconPadilha/MayconPadilha">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MayconPadilha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconPadilha&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayconPadilha/MayconPadilha/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MayconPadilha/MayconPadilha/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MayconPadilha/MayconPadilha/output/github-contribution-grid-snake.svg">
 </picture>
+
 <br><br>
